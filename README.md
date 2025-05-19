@@ -121,11 +121,10 @@ This project improved my understanding of:
 
 ## 📁 Files in This Repo
 
-- `Final_Project_Wael_Albakri.ipynb` – Jupyter Notebook with code and outputs
-- `heart.csv` – UCI Heart Disease Dataset
-- `ACES.zip` – Cancer Gene Expression Dataset
-- `Disease_Prediction_Dashboard.pbix` – Power BI Dashboard
-- `Final Project Report - Wael Albakri.pdf` – Full written report
+- `Final_Project_Wael_Albakri.ipynb` – Jupyter Notebook with code and outputs  
+- `heart.csv` – UCI Heart Disease Dataset  
+- `Disease_Prediction_Dashboard.pbix` – Power BI Dashboard  
+- `Final Project Report - Wael Albakri.pdf` – Full written report  
 
 ---
 
@@ -137,9 +136,9 @@ For data presentation, a Power BI dashboard was also created to visually explore
 
 ## 🔗 How to Run
 
-1. Open the Jupyter notebook in Google Colab or JupyterLab.
-2. Upload the datasets `heart.csv` and extract `ACES.zip`.
-3. Follow the cells step-by-step — all preprocessing and model evaluations are included.
+Simply download the Jupyter notebook file (`Final_Project_Wael_Albakri.ipynb`) and open it in Google Colab or JupyterLab.
+
+All results, visualizations, and analysis are already included — no setup or data upload needed. Just scroll through and enjoy!
 
 ---
 
