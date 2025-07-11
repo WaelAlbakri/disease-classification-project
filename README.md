@@ -122,7 +122,6 @@ This project improved my understanding of:
 ## 📁 Files in This Repo
 
 - `Final_Project_Wael_Albakri.ipynb` – Jupyter Notebook with code and outputs  
-- `heart.csv` – UCI Heart Disease Dataset  
 - `Disease_Prediction_Dashboard.pbix` – Power BI Dashboard  
 - `Final Project Report - Wael Albakri.pdf` – Full written report  
 
